@@ -20,6 +20,8 @@ export default function About() {
             });
 
             setText("Enable light Mode");
+
+            
         }
 
         else{
